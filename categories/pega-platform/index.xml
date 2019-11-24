@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pega Platform on Pega中文博客</title>
+    <link>https://blog.pegabeta.com/categories/pega-platform/</link>
+    <description>Recent content in Pega Platform on Pega中文博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 03 Sep 2016 11:57:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.pegabeta.com/categories/pega-platform/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pega PE版安装后的常用配置</title>
+      <link>https://blog.pegabeta.com/2016/09/2016-09-03-pega-7-configuration-after-installation/</link>
+      <pubDate>Sat, 03 Sep 2016 11:57:18 +0800</pubDate>
+      
+      <guid>https://blog.pegabeta.com/2016/09/2016-09-03-pega-7-configuration-after-installation/</guid>
+      <description>Pega版本：Pega 7.1.9 前言 在Pega 7的PE版安装好后我们有一些常用的功能要配置一下。 常用配置 编辑PRPC Shutdown脚本 右键编辑Sh</description>
+    </item>
+    
+    <item>
+      <title>在Pega中使用自定义字体</title>
+      <link>https://blog.pegabeta.com/2015/10/2015-10-31-using-custom-webfonts-in-pega-7/</link>
+      <pubDate>Sat, 31 Oct 2015 13:48:45 +0800</pubDate>
+      
+      <guid>https://blog.pegabeta.com/2015/10/2015-10-31-using-custom-webfonts-in-pega-7/</guid>
+      <description>Pega版本：Pega 7.1.8 前言 在 CSS3 之前，web 设计师必须使用已在用户计算机上安装好的字体。通过 CSS3，web 设计师可以使用他们喜欢的任意字体</description>
+    </item>
+    
+    <item>
+      <title>Pega如何导出应用程序</title>
+      <link>https://blog.pegabeta.com/2015/10/2015-10-25-pega-7-export-application/</link>
+      <pubDate>Sun, 25 Oct 2015 16:47:19 +0800</pubDate>
+      
+      <guid>https://blog.pegabeta.com/2015/10/2015-10-25-pega-7-export-application/</guid>
+      <description>Pega版本：Pega 7.1.8 前言 当我们在Pega 7中完成一个应用程序后怎么把应用程序导出来并发给其他人呢？ 操作步骤 打开导出页面 点击左上角Desi</description>
+    </item>
+    
+    <item>
+      <title>自定义Pega登录界面</title>
+      <link>https://blog.pegabeta.com/2015/09/2015-09-29-customizing-the-pega-7-login-screen/</link>
+      <pubDate>Mon, 28 Sep 2015 11:13:03 +0800</pubDate>
+      
+      <guid>https://blog.pegabeta.com/2015/09/2015-09-29-customizing-the-pega-7-login-screen/</guid>
+      <description>Pega版本：Pega 7.1.6 前言 Pega 7默认的登录界面是有Pega公司Logo的这个，而有些时候我们却需要自己定义Pega的登录界面。 默认的登录页面</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pega中文博客 on Pega中文博客</title>
+        <link>https://blog.pegabeta.com/</link>
+        <description>Recent content in Pega中文博客 on Pega中文博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>zh</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+            <lastBuildDate>Fri, 02 Aug 2019 11:04:49 +0800</lastBuildDate>
+        
+        <atom:link href="https://blog.pegabeta.com/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>关于 Pegabeta</title>
+                <link>https://blog.pegabeta.com/about/</link>
+                <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
+                
+                <guid>https://blog.pegabeta.com/about/</guid>
+                <description>
+
+&lt;h1 id=&#34;关于&#34;&gt;关于&lt;/h1&gt;
+
+&lt;div class=&#34;float-right&#34;&gt;
+  
+    &lt;meting-js server=netease type=song id=27632799
+    
+    
+        mini=true
+    
+    
+    
+    
+    theme=&#34;#A9A9B3&#34;&gt;&lt;/meting-js&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;关于网站&#34;&gt;关于网站&lt;/h2&gt;
+
+&lt;p&gt;因为网上Pega中文资源匮乏，所以有了小站&lt;/p&gt;
+
+&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;没啥好说的&lt;/li&gt;
+&lt;li&gt;想了解我？戳右上角以歌会友🎵&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;关于版权&#34;&gt;关于版权&lt;/h2&gt;
+
+&lt;p&gt;本站所有的原创文章均受 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34;&gt;创作共享 署名-非商业性 4.0 许可协议 / CC BY-NC 4.0&lt;/a&gt; 保护。&lt;/p&gt;
+
+&lt;p&gt;任何个人及媒体在转载本站原创内容（包含文字、自制图像、摄影作品）时请遵守以下版权要求：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;注明转载&lt;/li&gt;
+&lt;li&gt;注明来源为本站首页网址 (&lt;a href=&#34;https://pegabeta.com&#34;&gt;pegabeta.com&lt;/a&gt;)，或所转内容在本站的完整网址&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;本站图片，除原创作品之外，多数来自互联网。
+此类图片的原版权所有者可在任何时候、以任何理由要求本站停止使用有关图片，其中包括被本站编辑（比如加注中文说明）过的图片，
+联系方式见本站首页。&lt;/p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Posts</title>
+                <link>https://blog.pegabeta.com/posts/</link>
+                <pubDate>Sat, 03 Sep 2016 11:57:18 +0800</pubDate>
+                
+                <guid>https://blog.pegabeta.com/posts/</guid>
+                <description></description>
+            </item>
+        
+    </channel>
+</rss>
