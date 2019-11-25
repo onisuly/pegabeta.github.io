@@ -13,8 +13,6 @@ Pega 7默认的登录界面是有Pega公司Logo的这个，而有些时候我们
 
 要自定义登录界面，我们需要创建一个access group和一个ruleset来保存登录界面，然后配置系统使用我们创建的ruleset和access group来代替系统默认分配给未登录访客的ruleset和access group。
 
-<!--more-->
-
 ## 实现方法
 
 ### 新建一个ruleset
